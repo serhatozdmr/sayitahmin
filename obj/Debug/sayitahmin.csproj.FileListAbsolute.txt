@@ -1,0 +1,6 @@
+C:\Users\SERHAT\Desktop\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe.config
+C:\Users\SERHAT\Desktop\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe
+C:\Users\SERHAT\Desktop\sayitahmin\sayitahmin\bin\Debug\sayitahmin.pdb
+C:\Users\SERHAT\Desktop\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csprojResolveAssemblyReference.cache
+C:\Users\SERHAT\Desktop\sayitahmin\sayitahmin\obj\Debug\sayitahmin.exe
+C:\Users\SERHAT\Desktop\sayitahmin\sayitahmin\obj\Debug\sayitahmin.pdb
